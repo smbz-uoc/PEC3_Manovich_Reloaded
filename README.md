@@ -6,18 +6,18 @@
 
 ## Introducción: El Software al Mando
 
-<div style="height: 270px">
-  <img src="media/software_takes_command.jpg"
-    alt="Software Takes Command by Lev Manovich"
-    style="float:left; height: 250px; margin-right: 20px"
-  />
+<img 
+  src="media/software_takes_command.jpg"
+  alt="Software Takes Command by Lev Manovich"
+  width="150"
+  align="right"
+/>
 
 En su obra seminal *El software toma el mando*, Lev Manovich nos pide dejar de mirar solo la superficie de los medios (la pantalla, la imagen, el sonido) y empezar a analizar el "motor" que los genera: el software.
 
 Según Manovich, el ordenador ya no es solo una herramienta, sino un **metamedio** que permite no solo simular viejos medios, sino hibridarlos para crear nuevas formas culturales que antes eran imposibles.
 
 En este ensayo, analizaremos dos casos contemporáneos de esta hibridación: **iRacing**, donde la simulación software sustituye y se fusiona con la realidad deportiva; y **Trench Crusade**, donde la impresión 3D disuelve la barrera entre el diseño digital y la manufactura física, democratizando la producción de objetos culturales.
-</div>
 
 ---
 
@@ -57,16 +57,16 @@ Esto cambia radicalmente la estructura cultural:
 La hibridación aquí también es social. *Trench Crusade* se alimenta de una comunidad que prueba las reglas y ofrece feedback inmediato en Discord, permitiendo "parches" de reglas como si fuera un software (hasta el punto de emplear la misma nomenclatura de versionado, siendo la versión de las reglas más reciente la 1.0.1). <br/>
 La barrera entre el consumidor y el productor se ha roto gracias a la accesibilidad de las impresoras 3D y la distribución de archivos digitales.
 
-<div style="display:flex; align-items:center; justify-content:center; gap: 16px">
-<img src="media/stl.jpg"
-  alt="Miniature STL in slicer software"
-  style="height: 250px"
-/>
-<img src="media/printer.webp"
-  alt="Resin printer printing"
-  style="height: 250px"
-/>
-</div>
+<table>
+  <tr>
+    <td align="center">
+      <img src="media/stl.jpg" alt="Miniature STL in slicer software" height="250"/>
+    </td>
+    <td align="center">
+      <img src="media/printer.webp" alt="Resin printer printing" height="250"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
