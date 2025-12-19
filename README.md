@@ -61,3 +61,10 @@ Tanto iRacing como Trench Crusade demuestran que la visión de Manovich sobre la
 En el primer caso, el software entrena al cuerpo humano para interactuar con la realidad. En el segundo, el software permite al usuario materializar objetos digitales personalizados. En ambos, el software ha dejado de ser un mero medio de representación para convertirse en el entorno donde la realidad se diseña, se prueba y finalmente, se ejecuta. Las barreras de costes, logística, transporte, licencias y peligros que antaño restringían el acceso a experiencias están siendo demolidas ladrillo a ladrillo por medio de procesos de hibridación tanto a grande como a pequeña escala.
 
 ---
+
+## Referencias y Bibliografía
+
+*   Manovich, Lev. (2013). *El Software toma el mando*. Barcelona: Editorial UOC.
+*   *iRacing.com Motorsport Simulations*. (2025). Recuperado de [iRacing.com](https://www.iracing.com)
+*   *Trench Crusade Official*. (2024). Recuperado de [trenchcrusade.com](https://www.trenchcrusade.com)
+*   McGee, G. (2023). *Sim2Reality: An iRacing Champion’s Journey*. iRacing News.
