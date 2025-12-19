@@ -38,7 +38,7 @@ El software ha alcanzado tal nivel de fidelidad (mediante el escaneo láser de c
 Si iRacing hibrida la física y el deporte, **Trench Crusade** y el auge de los *wargames* impresos en 3D hibridan la **escultura digital** con la **manufactura distribuida**.
 
 ### El Objeto como Archivo
-Tradicionalmente, un juego de miniaturas requería una fábrica, moldes de inyección y logística global. Diseñar un nuevo juego implicaba tener detrás de ti una inmensa maquinaria industrial capaz de producir y distribuir en masa todas las miniaturas que lo componían, haciendo el proceso no solo lento y limitado a unas pocas empresas con el músculo suficiente sino tambíen costoso para el usuario final, con miniaturas de unos pocos gramos de plástico costando decenas de euros en una tienda miorista.
+Tradicionalmente, un juego de miniaturas requería una fábrica, moldes de inyección y logística global. Diseñar y vender un nuevo juego implicaba tener detrás de ti una inmensa maquinaria industrial capaz de producir y distribuir en masa todas las miniaturas que lo componían, haciendo el proceso no solo lento y limitado a unas pocas empresas con el músculo suficiente sino también costoso para el usuario final, con miniaturas de unos pocos gramos de plástico costando decenas de euros en una tienda minorista.
 
 En la era del software, *Trench Crusade* nace primero como información: archivos STL esculpidos en software como ZBrush o Blender y reglas en un fichero PDF. El "juego" existe en un estado líquido digital antes de solidificarse en resina y papel en la casa del usuario.
 
