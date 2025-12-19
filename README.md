@@ -1,39 +1,13 @@
-# PEC3: Visionando el futuro con las gafas de Manovich 
+# PEC3: Manovich Reloaded
 
-### Recurso de aprendizaje de Cultura Digital 
+**Autor:** Samuel Bazaga  
+**Fecha:** 19 de Diciembre de 2025  
+**Asignatura:** Cultura Digital  
 
+## Introducción: El Software al Mando
 
-Autor: 
+En su obra seminal *El software toma el mando*, Lev Manovich nos pide dejar de mirar solo la superficie de los medios (la pantalla, la imagen, el sonido) y empezar a analizar el "motor" que los genera: el software.
 
+Según Manovich, el ordenador ya no es solo una herramienta, sino un **metamedio** que permite no solo simular viejos medios, sino hibridarlos para crear nuevas formas culturales que antes eran imposibles.
 
-Fecha: 
-
-![Cultura Digital](https://miro.medium.com/max/1400/0*9PyyNvrO2PcD3KuU.png) 
-
-
-
-## Planteamiento
-
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-
-## Re-descubriendo la hibridacion: Caso 1
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-
-
-## Re-descubriendo la hibridacion: Caso 2
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-
-
-### Referencias y Bibliografía
-
-* Manovich, Lev. (2013). **El Software toma el mando**. Barcelona: Editorial UOC. 
-
-
-----
-
-Licencia: Material Creative Commons desarrollado bajo licencia CC BY-SA 4.0. Imágenes CC BY [Tubik studio](https://blog.tubikstudio.com/how-to-create-original-flat-illustrations-designers-tips/) 
+En este ensayo, analizaremos dos casos contemporáneos de esta hibridación: **iRacing**, donde la simulación software sustituye y se fusiona con la realidad deportiva; y **Trench Crusade**, donde la impresión 3D disuelve la barrera entre el diseño digital y la manufactura física, democratizando la producción de objetos culturales.
