@@ -6,11 +6,18 @@
 
 ## Introducción: El Software al Mando
 
+<div style="height: 270px">
+  <img src="media/software_takes_command.jpg"
+    alt="Software Takes Command by Lev Manovich"
+    style="float:left; height: 250px; margin-right: 20px"
+  />
+
 En su obra seminal *El software toma el mando*, Lev Manovich nos pide dejar de mirar solo la superficie de los medios (la pantalla, la imagen, el sonido) y empezar a analizar el "motor" que los genera: el software.
 
 Según Manovich, el ordenador ya no es solo una herramienta, sino un **metamedio** que permite no solo simular viejos medios, sino hibridarlos para crear nuevas formas culturales que antes eran imposibles.
 
 En este ensayo, analizaremos dos casos contemporáneos de esta hibridación: **iRacing**, donde la simulación software sustituye y se fusiona con la realidad deportiva; y **Trench Crusade**, donde la impresión 3D disuelve la barrera entre el diseño digital y la manufactura física, democratizando la producción de objetos culturales.
+</div>
 
 ---
 
@@ -29,7 +36,7 @@ Lo fascinante de este caso es cómo invierte la relación tradicional entre medi
 
 El software ha alcanzado tal nivel de fidelidad (mediante el escaneo láser de circuitos o "nubes de puntos") que la habilidad adquirida en el entorno digital es directamente transferible al entorno físico. Es una hibridación donde el **código** (la física del motor del juego) y la **materia** (el coche real) se vuelven indistinguibles en términos de ejecución humana.
 
-(aqui hay que poner una imagen de algo. ideas: comparativa cockpit real/videojuego o escaneo de circuito de iracing. Buscar versiones)
+![Real track scanned for iRacing](media/iracing_circuit_scan.jpg "Real track scanned for iracing")
 
 ---
 
@@ -50,7 +57,16 @@ Esto cambia radicalmente la estructura cultural:
 La hibridación aquí también es social. *Trench Crusade* se alimenta de una comunidad que prueba las reglas y ofrece feedback inmediato en Discord, permitiendo "parches" de reglas como si fuera un software (hasta el punto de emplear la misma nomenclatura de versionado, siendo la versión de las reglas más reciente la 1.0.1). <br/>
 La barrera entre el consumidor y el productor se ha roto gracias a la accesibilidad de las impresoras 3D y la distribución de archivos digitales.
 
-(espacio para imagen: modelo 3d de miniatura o impresora de resina imprimiendo. Side by side de impresora y miniatura siendo pintada?)
+<div style="display:flex; align-items:center; justify-content:center; gap: 16px">
+<img src="media/stl.jpg"
+  alt="Miniature STL in slicer software"
+  style="height: 250px"
+/>
+<img src="media/printer.webp"
+  alt="Resin printer printing"
+  style="height: 250px"
+/>
+</div>
 
 ---
 
