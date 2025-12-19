@@ -22,7 +22,7 @@ En este ensayo, analizaremos dos casos contemporáneos de esta hibridación: **i
 
 ### La Transparencia de la Interfaz
 Manovich argumenta que el objetivo de cierta hibridación es hacer que la tecnología se vuelva invisible. En iRacing, la interfaz tradicional desaparece para dar paso a una interfaz física: el volante y los pedales con *Force Feedback*. El software envía datos de telemetría (fuerza G, agarre de neumáticos, transferencia de peso) que se traducen en fuerzas físicas en las manos del usuario.
-La parte digital del videojuego complementa a la experiencia física simulando interfaces realistas: Retrovisores, contadores de revoluciones e indicadores de marchas que aparecen como parte intrínseca del "vehículo" ques e conduce y no superpuestas virtualmente.
+La parte digital del videojuego complementa a la experiencia física simulando interfaces realistas: Retrovisores, contadores de revoluciones e indicadores de marchas que aparecen como parte intrínseca del "vehículo" que se conduce y no superpuestas virtualmente.
 
 ### El Simulacro precede a la Realidad
 Lo fascinante de este caso es cómo invierte la relación tradicional entre medio y realidad. Pilotos de Fórmula 1 como Max Verstappen o Lando Norris utilizan iRacing no para "jugar", sino para entrenar. Más aún, hemos visto fenómenos como el de Glenn McGee, pasando de ser campeón en iRacing a ganar el campeonato mundial de *Lamborghini Super Trofeo* en la vida real.
