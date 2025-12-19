@@ -53,3 +53,11 @@ La barrera entre el consumidor y el productor se ha roto gracias a la accesibili
 (espacio para imagen: modelo 3d de miniatura o impresora de resina imprimiendo. Side by side de impresora y miniatura siendo pintada?)
 
 ---
+
+## Conclusión
+
+Tanto iRacing como Trench Crusade demuestran que la visión de Manovich sobre la hibridación sigue vigente y en evolución. Ya no se trata solo de mezclar texto e imagen en una web. Estamos viendo la **hibridación de la experiencia física y la lógica del software**.
+
+En el primer caso, el software entrena al cuerpo humano para interactuar con la realidad. En el segundo, el software permite al usuario materializar objetos digitales personalizados. En ambos, el software ha dejado de ser un mero medio de representación para convertirse en el entorno donde la realidad se diseña, se prueba y, finalmente, se ejecuta.
+
+---
