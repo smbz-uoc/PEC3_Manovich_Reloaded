@@ -14,7 +14,7 @@ En este ensayo, analizaremos dos casos contemporáneos de esta hibridación: **i
 
 ---
 
-## iRacing | La Hibridación del Deporte y el Algoritmo
+## iRacing | La Hibridación del Deporte y el Software
 
 > *"El software es el pegamento invisible que une todo."* — Lev Manovich.
 
