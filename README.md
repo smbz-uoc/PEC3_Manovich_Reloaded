@@ -32,3 +32,24 @@ El software ha alcanzado tal nivel de fidelidad (mediante el escaneo láser de c
 (aqui hay que poner una imagen de algo. ideas: comparativa cockpit real/videojuego o escaneo de circuito de iracing. Buscar versiones)
 
 ---
+
+## Trench Crusade | De la Pantalla a la mesa de juego
+
+Si iRacing hibrida la física y el deporte, **Trench Crusade** y el auge de los *wargames* impresos en 3D hibridan la **escultura digital** con la **manufactura distribuida**.
+
+### El Objeto como Archivo
+Tradicionalmente, un juego de miniaturas requería una fábrica, moldes de inyección y logística global. Diseñar un nuevo juego implicaba tener detrás de ti una inmensa maquinaria industrial capaz de producir y distribuir en masa todas las miniaturas que lo componían, haciendo el proceso no solo lento y limitado a unas pocas empresas con el músculo suficiente sino tambíen costoso para el usuario final, con miniaturas de unos pocos gramos de plástico costando decenas de euros en una tienda miorista.
+
+En la era del software, *Trench Crusade* nace primero como información: archivos STL esculpidos en software como ZBrush o Blender y reglas en un fichero PDF. El "juego" existe en un estado líquido digital antes de solidificarse en resina y papel en la casa del usuario.
+
+Esto cambia radicalmente la estructura cultural:
+1.  **Variabilidad:** Manovich define la variabilidad como un principio clave de los nuevos medios. Un usuario puede escalar la miniatura, "espejarla" o modificarla antes de imprimirla. El objeto no es fijo.
+2.  **Kitbashing Digital:** Antes, modificar una miniatura ("kitbashing") requería cortar plástico con una cuchilla y esculpir con masilla epoxy. Ahora, los creadores y jugadores mezclan mallas poligonales de diferentes archivos para crear nuevas unidades y tienen acceso a un infinito inventario de accesorios y modificaciones para personalizar sus ejércitos. Es el "copiar y pegar" aplicado a la materia física.
+
+### La Comunidad como Motor de Procesamiento
+La hibridación aquí también es social. *Trench Crusade* se alimenta de una comunidad que prueba las reglas y ofrece feedback inmediato en Discord, permitiendo "parches" de reglas como si fuera un software (hasta el punto de emplear la misma nomenclatura de versionado, siendo la versión de las reglas más reciente la 1.0.1). <br/>
+La barrera entre el consumidor y el productor se ha roto gracias a la accesibilidad de las impresoras 3D y la distribución de archivos digitales.
+
+(espacio para imagen: modelo 3d de miniatura o impresora de resina imprimiendo. Side by side de impresora y miniatura siendo pintada?)
+
+---
